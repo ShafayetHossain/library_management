@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c11678f-6342-41d6-bd99-e8662c2a79d2" name="Default Changelist" comment="" />
+    <list default="true" id="6c11678f-6342-41d6-bd99-e8662c2a79d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/views/test.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -112,6 +117,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YoNmUVIC0W5uLNplNwjelcUk6G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -141,7 +147,7 @@
       <workItem from="1583605154676" duration="3530000" />
       <workItem from="1583638534292" duration="44656000" />
       <workItem from="1583728123252" duration="28901000" />
-      <workItem from="1583778427123" duration="820000" />
+      <workItem from="1583778427123" duration="1380000" />
     </task>
     <servers />
   </component>
@@ -161,6 +167,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583644756110" />
+    <state x="543" y="79" key="VCS.ChangeListViewerDialog" timestamp="1583781191663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="543" y="79" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1583781191663" />
     <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1583738054123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
