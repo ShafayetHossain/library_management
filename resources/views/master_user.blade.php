@@ -39,7 +39,7 @@
                     <a class="nav-link" href="{{URL('/') }}">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="">About</a>
+                    <a class="nav-link" href="/about">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{URL('/book-search') }}">Search Books</a>

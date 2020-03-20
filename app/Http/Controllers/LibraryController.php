@@ -202,5 +202,8 @@ class LibraryController extends Controller
 
     }
 
+    public function aboutVieW(){
 
+        return view('about');
+    }
 }

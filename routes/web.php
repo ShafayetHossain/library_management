@@ -42,3 +42,5 @@ Route::post('/book-update/{id}','LibraryController@updateBook');
 Route::get('/', 'LibraryController@userVieW');
 Route::any('/book-search', 'LibraryController@userSearch');
 
+Route::get('/about', 'LibraryController@aboutVieW');
+
